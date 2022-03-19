@@ -54,7 +54,7 @@ git 命令行中可以使用 Windows 和 Linux 的命令
   
 ###  Git 工作机制
   
-<img src="img\git工作机制.png"> 
+<img src="img/git工作机制.png"> 
   
   
 本地库还可以进一步推送到远程库
